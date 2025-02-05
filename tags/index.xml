@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on In Other Words</title>
-    <link>https://smonge.com/tags/</link>
+    <link>https://dragonchrist.github.io/iow-blog/index.html/tags/</link>
     <description>Recent content in Tags on In Other Words</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>user@example.com (Hugo Author)</managingEditor>
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>David K.S.</copyright>
-    <atom:link href="https://smonge.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dragonchrist.github.io/iow-blog/index.html/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
