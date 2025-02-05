@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on In Other Words</title>
-    <link>https://dragonchrist.github.io/iow-blog/index.html/posts/</link>
+    <link>https://dragonchrist.github.io/iow-blog/posts/</link>
     <description>Recent content in Posts on In Other Words</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,12 +10,12 @@
     <webMaster>user@example.com (Hugo Author)</webMaster>
     <copyright>David K.S.</copyright>
     <lastBuildDate>Mon, 03 Feb 2025 16:32:12 -0500</lastBuildDate>
-    <atom:link href="https://dragonchrist.github.io/iow-blog/index.html/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dragonchrist.github.io/iow-blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://dragonchrist.github.io/iow-blog/index.html/posts/my-first-post/</link>
+      <link>https://dragonchrist.github.io/iow-blog/posts/my-first-post/</link>
       <pubDate>Mon, 03 Feb 2025 16:32:12 -0500</pubDate><author>user@example.com (Hugo Author)</author>
-      <guid>https://dragonchrist.github.io/iow-blog/index.html/posts/my-first-post/</guid>
+      <guid>https://dragonchrist.github.io/iow-blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;This is a test post and I don&amp;rsquo;t really like it.&lt;/p&gt;</description>
     </item>
   </channel>
